@@ -1,0 +1,6 @@
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/imdario/mergo v0.0.0-20160517064435-50d4dbd4eb0e h1:zIX9lnwsSCcX3oc3J5w16I+3zmf6a+vdf80ygUqpah8=
+github.com/imdario/mergo v0.0.0-20160517064435-50d4dbd4eb0e/go.mod h1:2EnlNZ0deacrJVfApfmtdGgDfMuh/nq6Ok1EcJh5FfA=
+github.com/pavel-z1/phpipam-sdk-go v0.0.0-20200313084222-d0ff3300814c h1:riyo+L8wXpXIlvLlCtI/H6UxA4KyJQBMXXqHSjjf2Yg=
+github.com/pavel-z1/phpipam-sdk-go v0.0.0-20200313084222-d0ff3300814c/go.mod h1:zrdfOl0YKlE/jqc7n8uJSCn3Q0+C5Nt6Mssy050DVSw=

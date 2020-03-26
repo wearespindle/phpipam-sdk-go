@@ -8,9 +8,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/pavel-z1/phpipam-sdk-go/phpipam"
-	"github.com/pavel-z1/phpipam-sdk-go/phpipam/session"
-	"github.com/pavel-z1/phpipam-sdk-go/testacc"
+	"github.com/wearespindle/phpipam-sdk-go/phpipam"
+	"github.com/wearespindle/phpipam-sdk-go/phpipam/session"
+	"github.com/wearespindle/phpipam-sdk-go/testacc"
 )
 
 var testCreateVLANInput = VLAN{

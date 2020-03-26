@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"log"
 
-	"github.com/pavel-z1/phpipam-sdk-go/phpipam/session"
+	"github.com/wearespindle/phpipam-sdk-go/phpipam/session"
 )
 
 // APIResponse represents a PHPIPAM response body. Both successful and

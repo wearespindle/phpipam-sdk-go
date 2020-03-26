@@ -9,10 +9,10 @@ import (
 	"testing"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/pavel-z1/phpipam-sdk-go/controllers/subnets"
-	"github.com/pavel-z1/phpipam-sdk-go/phpipam"
-	"github.com/pavel-z1/phpipam-sdk-go/phpipam/session"
-	"github.com/pavel-z1/phpipam-sdk-go/testacc"
+	"github.com/wearespindle/phpipam-sdk-go/controllers/subnets"
+	"github.com/wearespindle/phpipam-sdk-go/phpipam"
+	"github.com/wearespindle/phpipam-sdk-go/phpipam/session"
+	"github.com/wearespindle/phpipam-sdk-go/testacc"
 )
 
 var testListSectionsOutputExpected = []Section{
